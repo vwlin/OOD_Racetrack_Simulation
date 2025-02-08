@@ -1,0 +1,5 @@
+stable-baselines3==2.3.0
+ipython==8.23.0
+PyVirtualDisplay==3.0
+moviepy==1.0.3
+tensorboard==2.16.2
